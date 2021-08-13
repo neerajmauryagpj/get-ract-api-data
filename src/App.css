@@ -1,0 +1,49 @@
+.container {
+    background: skyblue;
+}
+
+.container h1 {
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+.table-wrap table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.table-wrap th,
+.table-wrap td {
+    border: 1px solid #fff;
+    padding: 0.5rem;
+}
+
+.pagination {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.pagination button {
+    padding: 5px;
+    margin: 5px;
+    background: #85cdea;
+    color: #fff;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+.table-wrap {
+    text-align: center;
+}
+
+.pageno {
+    padding: 10px;
+    color: #fff;
+}
+
+.pagination button:hover {
+    background: #36b8ec;
+}
